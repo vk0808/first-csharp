@@ -6,7 +6,8 @@ namespace FirstConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! This is Vinod");
+            Console.WriteLine("Hello!");
+            Console.WriteLine("Welcome to C#Project. This is Vinod");
         }
     }
 }
